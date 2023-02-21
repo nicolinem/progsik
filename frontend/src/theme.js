@@ -13,7 +13,7 @@ const theme = createTheme({
       main: "#E84545",
     },
     quart: {
-      main: "#53354A",
+      main: "#53354B",
     },
   },
 });
